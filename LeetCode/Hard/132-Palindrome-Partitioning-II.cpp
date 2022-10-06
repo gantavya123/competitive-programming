@@ -2,7 +2,7 @@
 // Time Complexity : O(n^2)
 // Space Complexity : O(n)
 
-// Approach : Use Manacher's Algo --- https://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring-part-1/
+// Approach Explaination : Use Manacher's Algo --- https://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring-part-1/
 
 class Solution {
 public:
